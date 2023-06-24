@@ -1,0 +1,39 @@
+FONT-PRIMARY: #22293E
+SECONDARY: #8C82FC
+NAV-A-COLOR: #394360
+P-COLOR: #222831
+
+FONT TRANSPARENT : #BAB8D2
+
+BG-PRIMARY: #FFFFFF
+BG-SECONDARY : #F8F8FF
+
+BTN PRIMARY : #44E4C9
+BTN-SECONDARY: #44E4C9
+BTN-TRANSPARENT: #A2B3BF
+
+----TYPOGRAPHY----
+
+ELEMENT:	NAME-FONT:	WEIGHT:		SIZE:		LINE-HEIGHT:
+
+-nav-a		-Manrope	-600		    -20px		    -27.32px		
+-logo		  -		      -700		    -34px		    -46.44px
+-span		        -		-700		    -20px		    -27px
+-p		          -		-500		    -24px		    -32px
+-h1		          -		-800		    -65px		    -87px
+-h2		          -		-700		    -45px		    -60px
+-p2		          -		-500		    -22px		    -30px
+-title		      -		-700		    -20px/22px	-27px
+-sub-title	    -		-500		    -26px/24px	-35px
+-comment	      -		-400		    -17px		    -23px
+-font-btn	      -		-700		    -23px		
+-title-footer	  -		-700		    -29px		    -38px
+-a-footer	      -		-500		    -22px		    -30px
+
+
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@500;700;800&display=swap');
+</style>
+
+font-family: 'Manrope', sans-serif;
+
